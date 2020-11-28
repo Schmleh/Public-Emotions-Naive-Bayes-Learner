@@ -5,11 +5,11 @@ The course was taught by Professor Oshani Seneviratne and Professor Jim Hendler,
 This code was written by Helen Yuan, Iris Liu, Min Yue, and Willie Xia.
 (Contributions may vary, as it was written in tandem via Jupyter Notebook.)
 
-Professor Oshani - https://github.com/oshanis
-Helen Yuan - https://github.com/hyuan0v0
-Iris Liu - https://github.com/IrisLiu0
-Min Yue - https://github.com/Schmleh
-Willie Xia - https://github.com/WillieXia
+* Professor Oshani - https://github.com/oshanis
+* Helen Yuan - https://github.com/hyuan0v0
+* Iris Liu - https://github.com/IrisLiu0
+* Min Yue - https://github.com/Schmleh
+* Willie Xia - https://github.com/WillieXia
 
 
 ## Code to Run
