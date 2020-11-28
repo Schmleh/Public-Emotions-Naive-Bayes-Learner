@@ -4,6 +4,7 @@ This code was written for "AI In Fiction and Fact", a course at Rensselaer Polyt
 The course was taught by Professor Oshani Seneviratne and Professor Jim Hendler, Summer of 2020.
 This code was written by Helen Yuan, Iris Liu, Min Yue, and Willie Xia.
 (Contributions may vary, as it was written in tandem via Jupyter Notebook.)
+Note that this is an archived version of a private repository made for the duration of the class.
 
 * Professor Hendler - https://www.cs.rpi.edu/~hendler/
 * Professor Oshani - https://github.com/oshanis
